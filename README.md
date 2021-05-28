@@ -6,7 +6,7 @@ This is a simple Bitcoin wallet scrapper it's checks random wallets that it gene
 ## Development setup
 
 ```sh
-python3 -m pip install -r requirments.txt
+python3 -m pip install -r requirements.txt
 ```
 ```sh
 python3 main.py

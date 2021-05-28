@@ -1,3 +1,4 @@
 moneywagon
 requests
 termcolor
+pytelegrambotapi
